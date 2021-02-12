@@ -4,7 +4,7 @@
 **kimkev/kimkev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Here are some ideas to get you started:
+Check out my profile at https://kimkev.github.io/
 
 - 🔭 I’m currently working on MERN stack implementation.
 - 🌱 I’m currently learning React-Router, GraphQL.
