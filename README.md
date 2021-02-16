@@ -10,9 +10,7 @@ Check out my profile at https://kimkev.github.io/
 - 🌱 I’m currently learning React-Router, GraphQL.
 - 👯 I’m looking to collaborate on cool web projects.
 - 🤔 I’m looking for help with automation.
-- 💬 Ask me about anything, any stuff.
 - 📫 How to reach me: Email: k6yk08@gmail.com
-- 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend time learning about new tech.
 
 <img src="https://github-readme-stats.vercel.app/api?username=kimkev&&show_icons=true&count_private=true&theme=radical">
