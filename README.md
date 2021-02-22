@@ -15,4 +15,4 @@ Check out my profile at https://kimkev.github.io/
 
 <img src="https://github-readme-stats.vercel.app/api?username=kimkev&&show_icons=true&count_private=true&theme=radical">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimkev&layout=compact&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimkev&layout=compact&theme=radical&hide=Objective-C&langs_count=6">
