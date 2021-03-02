@@ -5,7 +5,7 @@
 -->
 
 Check out my profile at https://kimkev.github.io/  
-Check out my MEAN Stack App at http://18.220.198.9/
+Check out my MEAN Stack App hosted on AWS EC2 at http://18.220.198.9/
 
 - 🔭 I’m currently working on MERN stack implementation.
 - 🌱 I’m currently learning React-Router, GraphQL.
