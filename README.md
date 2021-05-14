@@ -7,8 +7,8 @@
 Check out my Github Pages profile at https://kimkev.github.io/  
 Check out my MERN Stack App hosted on AWS EC2 at http://18.220.198.9/
 
-- 🔭 I’m currently working on MERN stack implementation.
-- 🌱 I’m currently learning React-Router, GraphQL.
+- 🔭 I’m currently working on expanding my portfolio.
+- 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate on cool web projects.
 - 🤔 I’m looking for help with automation.
 - 📫 How to reach me: Email: k6yk08@gmail.com
