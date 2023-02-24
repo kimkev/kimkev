@@ -5,7 +5,7 @@
 -->
 
 Check out my Github Pages profile at https://kimkev.github.io/  
-// Check out my MERN Stack App hosted on AWS EC2 at http://18.220.198.9/
+## Check out my MERN Stack App hosted on AWS EC2 at http://18.220.198.9/
 
 - 🔭 I’m currently working at Apryse, formerly known as PDFTron
 - 🌱 I’m currently learning to make client side apps on https://kimkev.github.io/app/ 
