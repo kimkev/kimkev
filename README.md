@@ -8,7 +8,7 @@ Check out my Github Pages profile at https://kimkev.github.io/
 <!-- Check out my MERN Stack App hosted on AWS EC2 at http://18.220.198.9/ -->
 
 - 🔭 I’m currently working at Apryse, a document processing company
-- 🌱 I’m currently learning to make client side apps on [https://kimkev.github.io/app/ ](https://kimkev.github.io/#/application)
+<!-- - 🌱 I’m currently learning to make client side apps on [https://kimkev.github.io/ ](https://kimkev.github.io) -->
 <!-- - 👯 I’m looking to deploy something on the web for people to use -->
 - 📫 How to reach me: Email: k6yk08@gmail.com
 
